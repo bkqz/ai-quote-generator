@@ -1,0 +1,5 @@
+--extra-index-url https://jllllll.github.io/llama-cpp-python-cuBLAS-wheels/basic/cpu
+
+gradio
+llama-cpp-python==0.2.26
+huggingface_hub
