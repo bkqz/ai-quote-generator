@@ -67,7 +67,7 @@ This suggests the fine-tuning "specialized" the model. The base model was "confu
 This repository contains all artifacts for both project versions.
 ```
 /
-├── notebook/
+├── notebooks/
 │   ├── 01_ai_quote_generator_gguf.ipynb         # V1: The original notebook to train and deploy the GGUF app.
 │   └── 02_tinyllama_quote_finetuning.ipynb      # V2: The final notebook for quality & speed analysis.
 │
