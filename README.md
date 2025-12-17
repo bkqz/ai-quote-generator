@@ -29,7 +29,7 @@ This real-world performance bottleneck demonstrated that this deployment method 
 
 Given the impractical performance of the V1 deployment, the project pivoted to a more focused analysis: **Was the fine-tuning itself a success?**
 
-I created a second notebook (`02_gpu_performance_benchmark.ipynb`) to isolate the training and compare the **base model** vs. our **fine-tuned model** on the same T4 GPU.
+I created a second notebook (`02_tinyllama_quote_finetuning.ipynb`) to isolate the training and compare the **base model** vs. our **fine-tuned model** on the same T4 GPU.
 
 The results were a clear success.
 
